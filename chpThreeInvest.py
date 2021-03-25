@@ -1,6 +1,6 @@
 """
 Program: investment.py
-Author: Ken
+Author: Quentin Miller
 
 Compute an investment report.
 
